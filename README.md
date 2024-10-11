@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**masonjs-cn/masonjs-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## mason 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dohooo/dohooo/output/github-contribution-grid-snake.svg" />  
+</p>
+
+## 😈 My blog
+
+- [掘金专栏](https://juejin.cn/user/3245414055936653)
+- [低代码设计](https://github.com/masonjs-cn/ms-doc/)
+
+## 🔧 My project
+
+[![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=masonjs-cn&repo=ms-utils)](https://github.com/masonjs-cn/ms-utils)
+
+
+## 汇总 ✨
+<p align="center">
+<img   height="137px" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=masonjs-cn&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img  height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masonjs-cn&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+</p>
