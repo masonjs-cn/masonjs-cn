@@ -9,7 +9,7 @@
 ## 😈 My blog
 
 - [掘金专栏](https://juejin.cn/user/3245414055936653)
-- [低代码设计](https://github.com/masonjs-cn/ms-doc/)
+- [低代码设计](https://masonjs-cn.github.io/ms-doc/)
 
 ## 🔧 My project
 
